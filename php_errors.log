@@ -1,0 +1,1760 @@
+[09-Jul-2020 03:39:52 UTC] PHP Warning:  file_get_contents('F:/Share/侯邵鹏/照片/泡水的/IMG_20200708_180207_1.jpg'): failed to open stream: Invalid argument in C:\Users\Administrator\Desktop\水印\index.php on line 16
+[09-Jul-2020 03:39:52 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in C:\Users\Administrator\Desktop\水印\index.php on line 16
+[09-Jul-2020 03:39:52 UTC] PHP Warning:  getimagesize('F:/Share/侯邵鹏/照片/泡水的/IMG_20200708_180207_1.jpg'): failed to open stream: Invalid argument in C:\Users\Administrator\Desktop\水印\index.php on line 21
+[09-Jul-2020 03:39:52 UTC] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in C:\Users\Administrator\Desktop\水印\index.php on line 22
+[09-Jul-2020 03:39:52 UTC] PHP Warning:  imagefttext() expects parameter 1 to be resource, boolean given in C:\Users\Administrator\Desktop\水印\index.php on line 23
+[09-Jul-2020 03:39:52 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in C:\Users\Administrator\Desktop\水印\index.php on line 42
+[09-Jul-2020 03:52:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function len() in C:\Users\Administrator\Desktop\水印\run.php:12
+Stack trace:
+#0 C:\Users\Administrator\Desktop\水印\run.php(3): getOnePic('F:\\Share\\\xE4\xBE\xAF\xE9\x82\xB5...')
+#1 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\run.php on line 12
+[09-Jul-2020 03:53:20 UTC] PHP Notice:  Use of undefined constant index - assumed 'index' in C:\Users\Administrator\Desktop\水印\run.php on line 14
+[09-Jul-2020 03:53:20 UTC] PHP Notice:  Undefined index: index in C:\Users\Administrator\Desktop\水印\run.php on line 14
+[09-Jul-2020 03:53:40 UTC] PHP Notice:  Use of undefined constant index - assumed 'index' in C:\Users\Administrator\Desktop\水印\run.php on line 14
+[09-Jul-2020 03:53:40 UTC] PHP Notice:  Undefined index: index in C:\Users\Administrator\Desktop\水印\run.php on line 14
+[09-Jul-2020 03:53:58 UTC] PHP Notice:  Use of undefined constant index - assumed 'index' in C:\Users\Administrator\Desktop\水印\run.php on line 14
+[09-Jul-2020 03:53:58 UTC] PHP Notice:  Undefined index: index in C:\Users\Administrator\Desktop\水印\run.php on line 14
+[09-Jul-2020 03:54:15 UTC] PHP Notice:  Undefined offset: 0 in C:\Users\Administrator\Desktop\水印\run.php on line 14
+[09-Jul-2020 03:55:40 UTC] PHP Notice:  Undefined offset: 0 in C:\Users\Administrator\Desktop\水印\run.php on line 16
+[09-Jul-2020 03:55:41 UTC] PHP Notice:  Undefined offset: 0 in C:\Users\Administrator\Desktop\水印\run.php on line 16
+[09-Jul-2020 03:55:42 UTC] PHP Notice:  Undefined offset: 0 in C:\Users\Administrator\Desktop\水印\run.php on line 16
+[09-Jul-2020 03:56:25 UTC] PHP Notice:  Undefined offset: 0 in C:\Users\Administrator\Desktop\水印\run.php on line 16
+[09-Jul-2020 03:56:26 UTC] PHP Notice:  Undefined offset: 0 in C:\Users\Administrator\Desktop\水印\run.php on line 16
+[09-Jul-2020 04:01:21 UTC] PHP Notice:  Undefined offset: 0 in C:\Users\Administrator\Desktop\水印\run.php on line 16
+[09-Jul-2020 04:01:23 UTC] PHP Notice:  Undefined offset: 0 in C:\Users\Administrator\Desktop\水印\run.php on line 16
+[09-Jul-2020 04:01:23 UTC] PHP Notice:  Undefined offset: 0 in C:\Users\Administrator\Desktop\水印\run.php on line 16
+[09-Jul-2020 04:01:34 UTC] PHP Notice:  Undefined offset: 0 in C:\Users\Administrator\Desktop\水印\run.php on line 16
+[09-Jul-2020 04:01:35 UTC] PHP Notice:  Undefined offset: 0 in C:\Users\Administrator\Desktop\水印\run.php on line 16
+[09-Jul-2020 04:01:36 UTC] PHP Notice:  Undefined offset: 0 in C:\Users\Administrator\Desktop\水印\run.php on line 16
+[09-Jul-2020 04:45:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function strototime() in C:\Users\Administrator\Desktop\水印\water.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 14
+[09-Jul-2020 04:55:06 UTC] PHP Notice:  Undefined offset: 3 in C:\Users\Administrator\Desktop\水印\water.php on line 11
+[09-Jul-2020 04:55:31 UTC] PHP Notice:  Undefined offset: 3 in C:\Users\Administrator\Desktop\水印\water.php on line 11
+[09-Jul-2020 05:23:50 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ';' in C:\Users\Administrator\Desktop\水印\run.php on line 26
+[09-Jul-2020 05:26:25 UTC] PHP Parse error:  syntax error, unexpected 'd”' (T_STRING), expecting ',' or ')' in C:\Users\Administrator\Desktop\水印\run.php on line 13
+[09-Jul-2020 05:39:20 UTC] PHP Parse error:  syntax error, unexpected '=', expecting variable (T_VARIABLE) or '{' or '$' in C:\Users\Administrator\Desktop\水印\run.php on line 21
+[09-Jul-2020 05:39:34 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting variable (T_VARIABLE) or '{' or '$' in C:\Users\Administrator\Desktop\水印\run.php on line 21
+[09-Jul-2020 05:57:15 UTC] PHP Parse error:  syntax error, unexpected '$imgroup1' (T_VARIABLE) in C:\Users\Administrator\Desktop\水印\run.php on line 20
+[09-Jul-2020 05:57:37 UTC] PHP Parse error:  syntax error, unexpected '$imgroup1' (T_VARIABLE) in C:\Users\Administrator\Desktop\水印\run.php on line 20
+[09-Jul-2020 05:57:45 UTC] PHP Parse error:  syntax error, unexpected '$date' (T_VARIABLE) in C:\Users\Administrator\Desktop\水印\run.php on line 42
+[09-Jul-2020 06:11:40 UTC] PHP Parse error:  syntax error, unexpected '=' in C:\Users\Administrator\Desktop\水印\run.php on line 49
+[09-Jul-2020 06:19:08 UTC] PHP Parse error:  syntax error, unexpected '"%~dp0"' (T_CONSTANT_ENCAPSED_STRING) in C:\Users\Administrator\Desktop\水印\run.php on line 100
+[09-Jul-2020 06:19:41 UTC] PHP Notice:  Use of undefined constant batfile - assumed 'batfile' in C:\Users\Administrator\Desktop\水印\run.php on line 104
+[09-Jul-2020 06:20:30 UTC] PHP Notice:  Use of undefined constant batfile - assumed 'batfile' in C:\Users\Administrator\Desktop\水印\run.php on line 104
+[09-Jul-2020 06:44:49 UTC] PHP Notice:  A non well formed numeric value encountered in C:\Users\Administrator\Desktop\水印\run.php on line 24
+[09-Jul-2020 06:44:49 UTC] PHP Notice:  A non well formed numeric value encountered in C:\Users\Administrator\Desktop\水印\run.php on line 25
+[09-Jul-2020 06:44:49 UTC] PHP Notice:  A non well formed numeric value encountered in C:\Users\Administrator\Desktop\水印\run.php on line 37
+[09-Jul-2020 06:44:49 UTC] PHP Notice:  A non well formed numeric value encountered in C:\Users\Administrator\Desktop\水印\run.php on line 38
+[09-Jul-2020 06:44:49 UTC] PHP Notice:  A non well formed numeric value encountered in C:\Users\Administrator\Desktop\水印\run.php on line 39
+[09-Jul-2020 06:44:49 UTC] PHP Notice:  A non well formed numeric value encountered in C:\Users\Administrator\Desktop\水印\run.php on line 51
+[09-Jul-2020 06:44:49 UTC] PHP Notice:  A non well formed numeric value encountered in C:\Users\Administrator\Desktop\水印\run.php on line 52
+[09-Jul-2020 06:44:49 UTC] PHP Notice:  A non well formed numeric value encountered in C:\Users\Administrator\Desktop\水印\run.php on line 53
+[09-Jul-2020 06:44:49 UTC] PHP Notice:  A non well formed numeric value encountered in C:\Users\Administrator\Desktop\水印\run.php on line 64
+[09-Jul-2020 06:44:49 UTC] PHP Notice:  A non well formed numeric value encountered in C:\Users\Administrator\Desktop\水印\run.php on line 65
+[09-Jul-2020 06:44:49 UTC] PHP Notice:  A non well formed numeric value encountered in C:\Users\Administrator\Desktop\水印\run.php on line 66
+[09-Jul-2020 06:44:49 UTC] PHP Notice:  A non well formed numeric value encountered in C:\Users\Administrator\Desktop\水印\run.php on line 79
+[09-Jul-2020 06:44:49 UTC] PHP Notice:  A non well formed numeric value encountered in C:\Users\Administrator\Desktop\水印\run.php on line 80
+[09-Jul-2020 06:44:49 UTC] PHP Notice:  A non well formed numeric value encountered in C:\Users\Administrator\Desktop\水印\run.php on line 81
+[09-Jul-2020 10:42:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_bz2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_curl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_gd2.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mbstring.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_mysqli.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_openssl.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_mysql.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_odbc.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_pdo_sqlite.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'H:\Workroot\phpStudy\php70n\ext\php_sqlite3.dll' - 找不到指定的模块。
+ in Unknown on line 0
+[09-Jul-2020 10:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in C:\Users\Administrator\Desktop\水印\water.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrator\Desktop\水印\water.php on line 21
